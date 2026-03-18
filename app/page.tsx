@@ -1,6 +1,7 @@
 export default function HomePage() {
   const interests = [
     "Statistics",
+    "Data Science",
     "Computer Science",
     "C++",
     "GPU",
@@ -86,7 +87,7 @@ export default function HomePage() {
               <div className="rounded-2xl bg-neutral-950/70 p-4">
                 <p className="font-semibold text-white">Technical Interest</p>
                 <p className="mt-1 break-words">
-                  Algorithms, systems, GPU-related topics, and software tools.
+                  Algorithms, Operating System, GPU-related topics, and software tools.
                 </p>
               </div>
               <div className="rounded-2xl bg-neutral-950/70 p-4">
